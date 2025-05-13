@@ -1,0 +1,25 @@
+﻿
+@model ProductVM
+<form asp-area="Admin" asp-controller="Product" asp-action="Create" model="post" enctype="multipart/form-data">
+
+    <div class="mb-3">
+    </div><br><br><br>
+    <div class="mb-3">
+        <label for="exampleInputEmail1">Name</label>
+        <input asp-for="Name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    
+     <div class="mb-3">
+        <label for="exampleInputEmail1">Price</label>
+        <input asp-for="Price" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+     </div>
+     <div class="mb-3">
+        <label for="exampleInputEmail1">Description</label>
+        <input asp-for="Description" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+     </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1">ImgUrl</label>
+        <input asp-for="ImgFile" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+</form>

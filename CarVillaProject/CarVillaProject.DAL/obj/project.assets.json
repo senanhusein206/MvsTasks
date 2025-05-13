@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Senan\\Desktop\\ABB206\\CarVillaProject\\CarVillaProject.DAL\\CarVillaProject.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\CarVillaProject\\CarVillaProject.DAL\\CarVillaProject.DAL.csproj",
       "projectName": "CarVillaProject.DAL",
-      "projectPath": "C:\\Users\\Senan\\Desktop\\ABB206\\CarVillaProject\\CarVillaProject.DAL\\CarVillaProject.DAL.csproj",
+      "projectPath": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\CarVillaProject\\CarVillaProject.DAL\\CarVillaProject.DAL.csproj",
       "packagesPath": "C:\\Users\\Senan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Senan\\Desktop\\ABB206\\CarVillaProject\\CarVillaProject.DAL\\obj\\",
+      "outputPath": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\CarVillaProject\\CarVillaProject.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

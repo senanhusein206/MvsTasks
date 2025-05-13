@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xwCq+gZDK+o=",
+  "dgSpecHash": "Wcz9Z9YM7A8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Senan\\Desktop\\ABB206\\CarVillaProject\\CarVillaProject.MVC\\CarVillaProject.MVC.csproj",
+  "projectFilePath": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\CarVillaProject\\CarVillaProject.MVC\\CarVillaProject.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Senan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Senan\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

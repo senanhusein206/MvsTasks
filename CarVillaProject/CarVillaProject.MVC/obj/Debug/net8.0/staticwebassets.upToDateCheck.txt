@@ -167,6 +167,7 @@ wwwroot\assets\js\jquery.js
 wwwroot\assets\js\owl.carousel.min.js
 wwwroot\assets\logo\favicon.png
 wwwroot\assets\uploadImages\download (1)132052a3-17a6-4f37-a505-54a2a4389c10.jpg
+wwwroot\assets\uploadImages\download (2)-e5eac7de-82fc-4286-8f84-e2dcc5738efa.jpg
 wwwroot\assets\uploadImages\download (3)-055b04e7-e97f-45ff-a20d-275ae3a5a17a.jpg
 wwwroot\assets\uploadImages\download (3)-66976d4d-0630-473d-ab87-2f1788a1dc5c.jpg
 wwwroot\assets\uploadImages\download5701a20c-6abf-4a21-a554-5870d1a6eb1c.jpg

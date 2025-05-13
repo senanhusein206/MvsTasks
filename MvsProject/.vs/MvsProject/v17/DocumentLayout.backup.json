@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB15E95F-F5DE-4100-9675-9BEC51B53075}|MvsProject.BL\\MvsProject.BL.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.bl\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB15E95F-F5DE-4100-9675-9BEC51B53075}|MvsProject.BL\\MvsProject.BL.csproj|solutionrelative:mvsproject.bl\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB15E95F-F5DE-4100-9675-9BEC51B53075}|MvsProject.BL\\MvsProject.BL.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.bl\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB15E95F-F5DE-4100-9675-9BEC51B53075}|MvsProject.BL\\MvsProject.BL.csproj|solutionrelative:mvsproject.bl\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\mvsproject.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\mvsproject.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\areas\\admin\\views\\product\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\areas\\admin\\views\\product\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D73225-CA3B-4851-B695-955C97E63C94}|MvsProject.DAL\\MvsProject.DAL.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D73225-CA3B-4851-B695-955C97E63C94}|MvsProject.DAL\\MvsProject.DAL.csproj|solutionrelative:mvsproject.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D73225-CA3B-4851-B695-955C97E63C94}|MvsProject.DAL\\MvsProject.DAL.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D73225-CA3B-4851-B695-955C97E63C94}|MvsProject.DAL\\MvsProject.DAL.csproj|solutionrelative:mvsproject.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB15E95F-F5DE-4100-9675-9BEC51B53075}|MvsProject.BL\\MvsProject.BL.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.bl\\exceptions\\productexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB15E95F-F5DE-4100-9675-9BEC51B53075}|MvsProject.BL\\MvsProject.BL.csproj|solutionrelative:mvsproject.bl\\exceptions\\productexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{787EC7A1-8E0B-4140-BE81-D74641ED6ADE}|MvsProject.MVC\\MvsProject.MVC.csproj|solutionrelative:mvsproject.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D73225-CA3B-4851-B695-955C97E63C94}|MvsProject.DAL\\MvsProject.DAL.csproj|c:\\users\\senan\\desktop\\ab2066mvc\\mvsproject\\mvsproject.dal\\migrations\\20250513171249_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D73225-CA3B-4851-B695-955C97E63C94}|MvsProject.DAL\\MvsProject.DAL.csproj|solutionrelative:mvsproject.dal\\migrations\\20250513171249_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.BL\\ProductVM.cs",
+              "RelativeDocumentMoniker": "MvsProject.BL\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.BL\\ProductVM.cs",
+              "RelativeToolTip": "MvsProject.BL\\ProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:39:53.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:07:06.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:06:47.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T18:09:26.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Info.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Info.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Info.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T18:09:07.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T18:08:51.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MvsProject.MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:52:01.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductException.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.BL\\Exceptions\\ProductException.cs",
+              "RelativeDocumentMoniker": "MvsProject.BL\\Exceptions\\ProductException.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.BL\\Exceptions\\ProductException.cs",
+              "RelativeToolTip": "MvsProject.BL\\Exceptions\\ProductException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:41:26.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.BL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MvsProject.BL\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.BL\\Services\\ProductService.cs",
+              "RelativeToolTip": "MvsProject.BL\\Services\\ProductService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwFUAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:31:29.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T17:17:01.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T17:16:52.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAUwGIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T17:16:43.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T17:16:21.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MvsProject.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:15:54.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MvsProject.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-13T17:14:41.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250513171249_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.DAL\\Migrations\\20250513171249_Init.cs",
+              "RelativeDocumentMoniker": "MvsProject.DAL\\Migrations\\20250513171249_Init.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.DAL\\Migrations\\20250513171249_Init.cs",
+              "RelativeToolTip": "MvsProject.DAL\\Migrations\\20250513171249_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:12:50.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MvsProject.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "MvsProject.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:05:50.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Program.cs",
+              "RelativeToolTip": "MvsProject.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:00:37.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:57:30.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:57:20.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv1EAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:57:09.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvsProject.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:56:41.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvsProject.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:56:31.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.DAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MvsProject.DAL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.DAL\\Models\\Product.cs",
+              "RelativeToolTip": "MvsProject.DAL\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:54:50.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MvsProject.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\MvsProject.MVC.csproj",
+              "RelativeDocumentMoniker": "MvsProject.MVC\\MvsProject.MVC.csproj",
+              "ToolTip": "C:\\Users\\Senan\\Desktop\\AB2066MVC\\MvsProject\\MvsProject.MVC\\MvsProject.MVC.csproj",
+              "RelativeToolTip": "MvsProject.MVC\\MvsProject.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T16:49:54.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

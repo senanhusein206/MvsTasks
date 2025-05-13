@@ -3042,6 +3042,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadImages\download (1)132052a3-17a6-4f37-a505-54a2a4389c10.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadImages\download (2)-e5eac7de-82fc-4286-8f84-e2dcc5738efa.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarVillaProject.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarVillaProject.MVC</BasePath>
+      <RelativePath>assets/uploadImages/download (2)-e5eac7de-82fc-4286-8f84-e2dcc5738efa.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rg9c7jvz7t</Fingerprint>
+      <Integrity>FQKJV5JmmH7IEHTSW7q3aBS9pZ2bBY1GzLEfe4DxpOI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadImages\download (2)-e5eac7de-82fc-4286-8f84-e2dcc5738efa.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\uploadImages\download (3)-055b04e7-e97f-45ff-a20d-275ae3a5a17a.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>CarVillaProject.MVC</SourceId>

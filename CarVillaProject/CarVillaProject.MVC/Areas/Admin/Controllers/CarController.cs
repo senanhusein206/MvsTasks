@@ -41,7 +41,7 @@ namespace CarVillaProject.MVC.Areas.Admin.Controllers
             {
                 throw new Exception("yoxdurrrrrr");
             }
-            Console.WriteLine(car.ImgFile.FileName);
+           
             carService.Create(car);
             return RedirectToAction(nameof(Index));
         }
