@@ -1,0 +1,22 @@
+﻿@using FinallySimulation.BL.ViewModels
+@using FinallySimulation.DAL.Models
+@model CreateOurVM
+
+<form asp-area="Admin" asp-controller="OurCause" asp-action="Update" model="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="exampleInputEmail1">Name</label>
+        <input asp-for="Name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+   
+    <div class="form-group">
+        <label for="exampleInputEmail1">Price</label>
+        <input asp-for="Price" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Description</label>
+        <input asp-for="Description" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <input asp-for="ImgFile" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>

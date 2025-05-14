@@ -1,0 +1,54 @@
+﻿@using FinallySimulation.DAL.Models
+@model OurCause
+<!-- Sale & Revenue Start -->
+<!-- Sale & Revenue End -->
+<!-- Sales Chart Start -->
+<!-- Sales Chart End -->
+<!-- Recent Sales Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="bg-secondary text-center rounded p-4">
+        <div class="d-flex align-items-center justify-content-between mb-4">
+            <h6 class="mb-0">Recent Salse</h6>
+            <a href="">Show All</a>
+        </div>
+        <div class="table-responsive">
+            <table class="table text-start align-middle table-bordered table-hover mb-0">
+                <thead>
+                    <tr class="text-white">
+
+                        <th scope="col">#</th>
+                        <th scope="col">Img</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                    
+                        <tr>
+
+                            <td>@Model.Id</td>
+                            <td><img width="50px" height="50px" src="~/assets/uploadImages/@Model.ImgUrl" class="custom-block-image img-fluid" alt=""></td>
+                            <td>@Model.Name</td>
+                            <td>@Model.Price</td>
+                            <td>@Model.Description</td>
+                            <td>
+                            <a asp-area="Admin" asp-controller="OurCause" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+                            <a asp-area ="Admin" asp-controller="OurCause" asp-action="Update" asp-route-id="@Model.Id" class="btn btn-warning">
+                                Update</a>
+                        
+
+                            </td>
+                        </tr>
+                    
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<!-- Recent Sales End -->
+<!-- Widgets Start -->
