@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MVCSimilotion1.MVC.props" />
+</Project>
