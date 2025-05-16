@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimilotion1\\mvcsimilotion1.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|solutionrelative:mvcsimilotion1.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimilotion1\\mvcsimilotion1.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|solutionrelative:mvcsimilotion1.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5BC44C1-C22D-441C-9C97-B7A1F91FD795}|MVCSimilotion1.BL\\MVCSimilotion1.BL.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimilotion1\\mvcsimilotion1.bl\\services\\chooseprogramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5BC44C1-C22D-441C-9C97-B7A1F91FD795}|MVCSimilotion1.BL\\MVCSimilotion1.BL.csproj|solutionrelative:mvcsimilotion1.bl\\services\\chooseprogramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|solutionrelative:mvcsimilotion1.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimilotion1\\mvcsimilotion1.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|solutionrelative:mvcsimilotion1.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimilotion1\\mvcsimilotion1.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|solutionrelative:mvcsimilotion1.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -83,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|solutionrelative:mvcsimilotion1.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimilotion1\\mvcsimilotion1.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|solutionrelative:mvcsimilotion1.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimilotion1\\mvcsimilotion1.mvc\\mvcsimilotion1.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7819C40C-94AD-4DB9-8016-C20B97696391}|MVCSimilotion1.MVC\\MVCSimilotion1.MVC.csproj|solutionrelative:mvcsimilotion1.mvc\\mvcsimilotion1.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -102,35 +102,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Update.cshtml",
-              "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Update.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Update.cshtml",
-              "RelativeToolTip": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T13:50:02.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Create.cshtml",
-              "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Create.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Create.cshtml",
-              "RelativeToolTip": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T13:49:42.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Index.cshtml",
@@ -142,20 +118,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ChooseProgramService.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.BL\\Services\\ChooseProgramService.cs",
               "RelativeDocumentMoniker": "MVCSimilotion1.BL\\Services\\ChooseProgramService.cs",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.BL\\Services\\ChooseProgramService.cs",
               "RelativeToolTip": "MVCSimilotion1.BL\\Services\\ChooseProgramService.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAwwFwAAACCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T12:58:05.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Delete.cshtml",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Delete.cshtml",
@@ -167,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Info.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Info.cshtml",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Info.cshtml",
@@ -179,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Views\\Home\\Index.cshtml",
@@ -191,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Views\\Shared\\_Layout.cshtml",
@@ -203,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CreateProgramVM.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.BL\\ViewsModels\\CreateProgramVM.cs",
               "RelativeDocumentMoniker": "MVCSimilotion1.BL\\ViewsModels\\CreateProgramVM.cs",
@@ -215,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ChooseProgramController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Controllers\\ChooseProgramController.cs",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Areas\\Admin\\Controllers\\ChooseProgramController.cs",
@@ -227,7 +203,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Program.cs",
+              "RelativeToolTip": "MVCSimilotion1.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:11:09.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\appsettings.json",
+              "RelativeToolTip": "MVCSimilotion1.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T12:33:57.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Create.cshtml",
+              "RelativeToolTip": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:49:42.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Update.cshtml",
+              "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Update.cshtml",
+              "RelativeToolTip": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\ChooseProgram\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T13:50:02.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -239,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ChooseProgram.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.DAL\\Models\\ChooseProgram.cs",
               "RelativeDocumentMoniker": "MVCSimilotion1.DAL\\Models\\ChooseProgram.cs",
@@ -251,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.DAL\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MVCSimilotion1.DAL\\Contexts\\AppDbContext.cs",
@@ -263,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Controllers\\HomeController.cs",
@@ -275,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -287,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Views\\_ViewStart.cshtml",
@@ -299,19 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Program.cs",
-              "RelativeToolTip": "MVCSimilotion1.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T12:11:09.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -323,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\ScaffoldingReadMe.txt",
@@ -347,19 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\appsettings.json",
-              "RelativeToolTip": "MVCSimilotion1.MVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-15T12:33:57.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimilotion1\\MVCSimilotion1.MVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MVCSimilotion1.MVC\\Views\\_ViewImports.cshtml",

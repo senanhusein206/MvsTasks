@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD786D6-0FCA-46BB-A194-E0F40CDD41AB}|MVCSimulation2.BL\\MVCSimulation2.BL.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.bl\\services\\collectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD786D6-0FCA-46BB-A194-E0F40CDD41AB}|MVCSimulation2.BL\\MVCSimulation2.BL.csproj|solutionrelative:mvcsimulation2.bl\\services\\collectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\areas\\admin\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\areas\\admin\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\areas\\admin\\views\\collection\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\areas\\admin\\views\\collection\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD786D6-0FCA-46BB-A194-E0F40CDD41AB}|MVCSimulation2.BL\\MVCSimulation2.BL.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.bl\\viewmodels\\createcollectionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD786D6-0FCA-46BB-A194-E0F40CDD41AB}|MVCSimulation2.BL\\MVCSimulation2.BL.csproj|solutionrelative:mvcsimulation2.bl\\viewmodels\\createcollectionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\areas\\admin\\views\\collection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\areas\\admin\\views\\collection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8940C76-EFF7-4910-9187-D2838955F583}|MVCSimulation2.DAL\\MVCSimulation2.DAL.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.dal\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8940C76-EFF7-4910-9187-D2838955F583}|MVCSimulation2.DAL\\MVCSimulation2.DAL.csproj|solutionrelative:mvcsimulation2.dal\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\areas\\admin\\views\\collection\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\areas\\admin\\views\\collection\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\areas\\admin\\views\\collection\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\areas\\admin\\views\\collection\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\areas\\admin\\views\\collection\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\areas\\admin\\views\\collection\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F91181AD-9E2E-4699-970A-795EE4211CB4}|MVCSimulation2.MVC\\MVCSimulation2.MVC.csproj|solutionrelative:mvcsimulation2.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8940C76-EFF7-4910-9187-D2838955F583}|MVCSimulation2.DAL\\MVCSimulation2.DAL.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8940C76-EFF7-4910-9187-D2838955F583}|MVCSimulation2.DAL\\MVCSimulation2.DAL.csproj|solutionrelative:mvcsimulation2.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\source\\repos\\MVCSimulation2\\MVCSimulation2.DAL\\Migrations\\20250516120831_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\source\\repos\\MVCSimulation2\\MVCSimulation2.DAL\\Migrations\\20250516115532_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8940C76-EFF7-4910-9187-D2838955F583}|MVCSimulation2.DAL\\MVCSimulation2.DAL.csproj|c:\\users\\ii novbe\\desktop\\mvstasks\\mvcsimulation2\\mvcsimulation2.dal\\migrations\\20250516121003_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8940C76-EFF7-4910-9187-D2838955F583}|MVCSimulation2.DAL\\MVCSimulation2.DAL.csproj|solutionrelative:mvcsimulation2.dal\\migrations\\20250516121003_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCollectionVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.BL\\ViewModels\\CreateCollectionVM.cs",
+              "RelativeDocumentMoniker": "MVCSimulation2.BL\\ViewModels\\CreateCollectionVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.BL\\ViewModels\\CreateCollectionVM.cs",
+              "RelativeToolTip": "MVCSimulation2.BL\\ViewModels\\CreateCollectionVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:29:23.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:42:50.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:42:33.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:42:18.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Info.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:42:04.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\Collection\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:15:11.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.DAL\\Models\\Collection.cs",
+              "RelativeDocumentMoniker": "MVCSimulation2.DAL\\Models\\Collection.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.DAL\\Models\\Collection.cs",
+              "RelativeToolTip": "MVCSimulation2.DAL\\Models\\Collection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:35:23.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectionService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.BL\\Services\\CollectionService.cs",
+              "RelativeDocumentMoniker": "MVCSimulation2.BL\\Services\\CollectionService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.BL\\Services\\CollectionService.cs",
+              "RelativeToolTip": "MVCSimulation2.BL\\Services\\CollectionService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwFwAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:57:38.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Controllers\\CollectionController.cs",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Areas\\Admin\\Controllers\\CollectionController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Controllers\\CollectionController.cs",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Areas\\Admin\\Controllers\\CollectionController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:15:04.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T11:27:18.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T11:29:30.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T11:29:37.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T11:29:43.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwEEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:15:27.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:15:39.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:27:10.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Program.cs",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:31:50.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCSimulation2.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:15:33.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\appsettings.json",
+              "RelativeToolTip": "MVCSimulation2.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T11:45:41.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MVCSimulation2.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MVCSimulation2.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-16T12:14:13.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250516121003_Init.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.DAL\\Migrations\\20250516121003_Init.cs",
+              "RelativeDocumentMoniker": "MVCSimulation2.DAL\\Migrations\\20250516121003_Init.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.DAL\\Migrations\\20250516121003_Init.cs",
+              "RelativeToolTip": "MVCSimulation2.DAL\\Migrations\\20250516121003_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:10:03.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250516120831_Init.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\MVCSimulation2\\MVCSimulation2.DAL\\Migrations\\20250516120831_Init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\MVCSimulation2\\MVCSimulation2.DAL\\Migrations\\20250516120831_Init.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\MVCSimulation2\\MVCSimulation2.DAL\\Migrations\\20250516120831_Init.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\MVCSimulation2\\MVCSimulation2.DAL\\Migrations\\20250516120831_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:08:31.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250516115532_Init.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\MVCSimulation2\\MVCSimulation2.DAL\\Migrations\\20250516115532_Init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\MVCSimulation2\\MVCSimulation2.DAL\\Migrations\\20250516115532_Init.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\MVCSimulation2\\MVCSimulation2.DAL\\Migrations\\20250516115532_Init.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\MVCSimulation2\\MVCSimulation2.DAL\\Migrations\\20250516115532_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:55:32.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVCSimulation2.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MvsTasks\\MVCSimulation2\\MVCSimulation2.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "MVCSimulation2.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:38:00.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
